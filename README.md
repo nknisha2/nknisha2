@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **nknisha813@gmial.com**
+- 📫 How to reach me **nknisha813@gmail.com**
 
 - ⚡ Fun fact **I love to resolve coding**
 
